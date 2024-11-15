@@ -2,7 +2,7 @@
 
 ![git](https://user-images.githubusercontent.com/46606790/181631229-fa6a175d-5b5a-4124-9085-2293e64ed17a.gif)
 
-<b><li>💻 Passionate Mobile App Developer | Always crafting sleek, user-friendly experiences.
+<b>💻 Passionate Mobile App Developer | Always crafting sleek, user-friendly experiences.
 <br>🚀 Fueled by curiosity, coffee, and clean code. </b></li>
 
 
