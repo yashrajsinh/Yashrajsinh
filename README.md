@@ -2,7 +2,8 @@
 
 ![git](https://user-images.githubusercontent.com/46606790/181631229-fa6a175d-5b5a-4124-9085-2293e64ed17a.gif)
 
-<b><li>An Enthusiast Mobile Application Developer </b></li>
+<b><li>💻 Passionate Mobile App Developer | Always crafting sleek, user-friendly experiences.
+🚀 Fueled by curiosity, coffee, and clean code. </b></li>
 
 
 ![KOTLIN](https://user-images.githubusercontent.com/46606790/181631410-e3d47de2-4d0d-421a-a309-95030bc8bf57.png)
