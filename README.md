@@ -1,7 +1,8 @@
-<h1 align="center">Hey There 👋🏻, I'm Yashrajsinh</h1>
+<h1 align="center">Hey There 👋🏻, I'm Yash</h1>
 
 <p align="center">
-💻 Passionate Mobile App Developer <br>
+💻 Software Developer <br>
+🇨🇦 Waterloo, Ontario, Canada  <br>
 🚀 Crafting sleek, high-performance mobile experiences <br>
 ☕ Fueled by curiosity, coffee, and clean code
 </p>
@@ -16,7 +17,6 @@
 
 📱 Mobile developer focused on **iOS, Android & Cross-Platform apps**  
 ⚡ Building smooth, scalable, and user-friendly mobile experiences  
-🛰 Recently built **AstroTrack — a real-time ISS tracker using MapKit**  
 🧠 Always exploring new tools and improving mobile architecture  
 🌍 Interested in **UI/UX, real-time systems, and performance optimization**
 
@@ -50,24 +50,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
-
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/yashrajsinh-/)">
+<a href="https://www.linkedin.com/in/yashrajsinh-/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
 </a>
-
 
 </p>
 
