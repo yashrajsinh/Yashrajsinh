@@ -8,7 +8,6 @@
 ⚡ Building smooth, scalable, and user-friendly mobile experiences   <br>
 🚀 Crafting sleek, high-performance mobile experiences <br>
 🤖 Interested in AI-powered applications and integrating intelligent features into software products <br>
-🌍 Interested in UI/UX, real-time systems, and performance optimization <br>
 ☕ Fueled by curiosity, coffee, and clean code <br>
 </p>
 
