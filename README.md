@@ -5,7 +5,7 @@
 🇨🇦 Waterloo, Ontario, Canada  <br>
 📱 Software developer focused on iOS, Android, React Native & Cross-Platform apps  <br>
 ⚛️ Exploring React.js and modern JavaScript ecosystems for interactive UI <br>
-⚡ Building smooth, scalable, and user-friendly mobile experiences   <br>
+⚡ Building smooth, scalable, and user-friendly software experiences   <br>
 🚀 Crafting sleek, high-performance mobile experiences <br>
 🤖 Interested in AI-powered applications and integrating intelligent features into software products <br>
 ☕ Fueled by curiosity, coffee, and clean code <br>
